@@ -1,0 +1,6 @@
+# Core dependencies - managed by uv
+typing-extensions>=4.0.0
+pydantic>=2.0.0
+
+# Note: This file is maintained for compatibility
+# Please use `uv pip install -e .` for development
